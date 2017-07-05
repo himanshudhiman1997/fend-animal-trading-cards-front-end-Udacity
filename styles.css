@@ -1,0 +1,9 @@
+/* add your CSS here */
+img {
+    width: 100%;
+    height: auto;
+}
+div{
+  border: 1px solid grey;
+  padding: 10px;
+}
